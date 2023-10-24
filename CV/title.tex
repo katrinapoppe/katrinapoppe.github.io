@@ -1,0 +1,28 @@
+\title{ \vspace{-1.5em}
+\bf $title$ \vspace{-.5em}
+}
+\author{
+  $for(by-author)$
+    {$by-author.name.literal$}\:
+    ($by-author.metadata.pronouns$)
+    \authorcr % Use to make new line in author block
+    Email: $if(by-author.email)$\href{mailto:$by-author.email$}{$by-author.email$}$endif$\:
+    Phone: $if(by-author.phone)${$by-author.phone$}{}$endif$
+    \authorcr
+    Website: $if(by-author.url)$\href{$by-author.url$}{$by-author.url$}$endif$
+    
+
+    $for(by-author.affiliations)$
+      $it.name$
+      \authorcr
+      $it.department$
+      \authorcr
+      $it.city$ $it.country$
+    $endfor$
+  $endfor$
+  \date{\vspace{-1em}\today}
+  }
+
+
+
+% $by-author.pronouns$ \\

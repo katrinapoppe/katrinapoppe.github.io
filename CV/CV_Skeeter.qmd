@@ -1,0 +1,207 @@
+---
+title: "Curriculum Vitae"
+author:
+  - name: Dr. June Skeeter
+    email: june.skeeter@ubc.ca
+    url: https://june-skeeter.github.io/
+    pronouns: "they/them/theirs"
+    phone: "604 440 1697"
+
+---
+
+
+::: {.content-visible when-format="html"}
+
+View the .pdf version [here](CV_Skeeter.pdf)
+
+:::
+
+# Education
+
++-----------------------------------------------------------:+-------:+
+|                                                            |        |
++============================================================+=======:+
+|PhD Geography, University of British Columbia (UBC)         | 2023   |
+|                                                            |        |
+| * {{< var Dissertation >}}                                 |        |
++------------------------------------------------------------+--------+
+| MsC Geography, University of South Carolina (USC)          | 2015   |
+|                                                            |        |
+| - {{< var Thesis >}}	                                     |        |
++------------------------------------------------------------+--------+
+| BS Geography & BS Earth Science, Salisbury University (SU) | 2013   |
+|                                                            |        |
+| - Minor in Statistics                                      |        |
+| - Graduated Cum Laude                                      |        |
++------------------------------------------------------------+--------+
+
+: {tbl-colwidths="[80,20]"}
+
+# Employment
+
+
+
++-------------------------------------------------------------------------------:+---------------:+
+|                                                                                |                |
++================================================================================+===============:+
+| Postdoctoral Researcher: UBC Micrometeorology                                  | 2022 - Present |
++--------------------------------------------------------------------------------+----------------+
+| Sessional Instructor: UBC Geography Department                                 | 2020 - Present |
+|                                                                                |                |
+| - Atmospheric Environments: [Course Webpage](https://geos200.github.io/)       |                |
+| - Geographic Information Science: [Course Webpage](https://geos270.github.io/) |                |
++--------------------------------------------------------------------------------+----------------+
+| Graduate Academic Assistant: UBC Library Research Commons                      | 2020 - 2022    |
++--------------------------------------------------------------------------------+----------------+
+| Sessional Instructor: UBC School of Community and Regional Planning            | 2019           |
++--------------------------------------------------------------------------------+----------------+
+| Teaching Assistant: UBC Geography Department                                   | 2015 - 2019    |
++--------------------------------------------------------------------------------+----------------+
+| Research/Teaching Assistant: USC Geography Department                          | 2013 - 2015    |
++--------------------------------------------------------------------------------+----------------+
+| Lab Assistant: SU Geography Department                                         | 2010 - 2013    |
++--------------------------------------------------------------------------------+----------------+
+
+: {tbl-colwidths="[80,20]"}
+
+
+# Publications
+
+## Peer Reviewed Articles
+
+
+::: hide-me
+
+@skeeter_modelling_2023
+@skeeter_controls_2022
+@skeeter_vegetation_2020
+@skeeter_fog_2016
+@skeeter_using_2013-1
+
+:::
+
+
+## Book chapter
+
+::: hide-me
+
+@skeeter_chapter_2022
+
+:::
+
+
+
+# Presentations
+
+## Research Talks
+
+::: hide-me
+
+@skeeter_framework_2023
+@skeeter_ongoing_2023
+@skeeter_compiling_2021
+@skeeter_police_2021
+@ahmed_how_2019
+@skeeter_growing_2018
+@skeeter_growing_2017
+@skeeter_vegetation_2017
+@skeeter_carbon_2016
+@skeeter_identifying_2014-1
+@skeeter_identifying_2014-2
+@skeeter_fog_2013
+@skeeter_using_2013-2
+@skeeter_using_2012-2
+
+:::
+
+## Guest Lectures
+
+::: hide-me
+
+@skeeter_opensourcegis_2023
+@skeeter_remote_2022
+@skeeter_data_2020
+@skeeter_remote_2020
+@skeeter_greenhouse_2017
+
+:::
+
+
+## Poster Presentations
+
+::: hide-me
+
+@skeeter_growing_2018
+@skeeter_carbon_2016
+@skeeter_source_2014
+@skeeter_using_2012-1
+@skeeter_possible_2011
+
+:::
+
+
+# Technical Skills 
+
+
+
++:-------------------------------+:-------------------------------+:------------------------+
+| Field & Research Methods       | Programming & Markup Languages | Software & Applications |
++:===============================+:===============================+:========================+
+| - Eddy Covariance              | - Python                       | - Git & GitHub          |
+| - Footprint Modelling          | - Javascript                   | - ArcGIS Pro & QGIS     |
+| - Flux Chamber Sampling        | - R                            | - Google Earth Engine   |
+| - Drone Surveying              | - Matlab                       | - Mapbox API            |
+| - Machine Learning             | - HTML                         | - Loggernet             |
+| - Image Classification         | - Markdown                     | - Eddy Pro              |
+| - Process Based Modelling      | - CRBasic                      | - Quarto                |
++--------------------------------+--------------------------------+-------------------------+
+
+: {tbl-colwidths="[33,33,33]"}
+
+# Volunteer Work and Committee Positions
+
++-----------------------------------------------------------:+---------------:+
+|                                                            |                |
++============================================================+===============:+
+| Western Director, {{< var CSFAM >}}                        | 2023 - Present |
++------------------------------------------------------------+----------------+
+| {{< var PID >}}                                            | 2020 - 2022    |
++------------------------------------------------------------+----------------+
+| Graduate Committee Representative, UBC Geography           | 2019 - 2020    |
++------------------------------------------------------------+----------------+
+| Climate Consultant, EcoMeet App                            | 2019           |
++------------------------------------------------------------+----------------+
+| Co-chair, UBC Geography Graduate Student Association       | 2018 - 2018    |
++------------------------------------------------------------+----------------+
+| USC Geography Departmental Outreach Committee              | 2018 - 2018    |
++------------------------------------------------------------+----------------+
+
+: {tbl-colwidths="[80,20]"}
+
+# Awards
+
++-----------------------------------------------------------:+------------:+
+|                                                            |             |
++============================================================+============:+
+| Open Educational Resource Champion, UBC Alma Mater Society | 2022        |
++------------------------------------------------------------+-------------+
+| Four-year Doctoral Fellowship, UBC                         | 2015 - 2019 |
++------------------------------------------------------------+-------------+
+| Graduate Assistanceship Award, UBC                         | 2013 - 2015 |
++------------------------------------------------------------+-------------+
+| Presidential Scholarship, SU                               | 2009 - 2013 |
++------------------------------------------------------------+-------------+
+| {{< var AAG >}} World Geography Bowls                      | 2009 - 2013 |
++------------------------------------------------------------+-------------+
+| - Four-time All Star Team Member, Middle Atlantic Division |             |
++------------------------------------------------------------+-------------+
+| Outstanding Graduating Senior Award, SU Geography          | 2013        |
++------------------------------------------------------------+-------------+
+| Outstanding Academic Achievement Award, SU Geography       | 2013        |
++------------------------------------------------------------+-------------+
+| 1st Place Student Paper {{< var MADAAG >}} Annual Meeting  | 2012        |
++------------------------------------------------------------+-------------+
+| Donald Lee Schul Jr. Memorial Wrestling Scholarship, SU    | 2009        |
++------------------------------------------------------------+-------------+
+
+: {tbl-colwidths="[80,20]"}

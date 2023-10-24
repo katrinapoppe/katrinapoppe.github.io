@@ -1,0 +1,29 @@
+---
+title: "About Me"
+---
+
+:::: {.columns}
+::: {.column width="65%"}
+
+**Name**: Katrina Poppe
+
+**Pronouns**: She/Her/Hers testing testing
+
+**Email**: poppek@students.ubc.ca 
+
+Hi! I'm Katrina Poppe...........
+
+:::
+:::{.column width="5%"}
+:::
+:::{.column width="30%"}
+
+![](images/profilePicKatrina.jpg)
+
+:::
+
+::::
+
+I'm an avid programmer.  I am fluent in Python and functionally proficient in a number of other languages including JavaScript, R, and Matlab.  I love making maps and enjoy creating interactive, web-based applications for research and education.  I prefer to work with open source options whenever possible because accessibility of information, transparency in data analysis, and minimizing barriers to access are central to my research and pedagogical philosophies.  
+
+

@@ -1,0 +1,33 @@
+project:
+  type: website  
+  output-dir: docs
+
+website:
+  title: "AboutMe"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: CV/CV_Skeeter.qmd
+        text: Curriculum Vitae
+      - href: Work.qmd
+        text: Recent Work
+      - href: Make_a_Site.qmd
+        text: How to make your own site!
+    right:
+      - icon: github
+        href: https://github.com/June-Skeeter
+        aria-label: Quarto GitHub
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+
+knitr:
+  opts_chunk: 
+    echo: false
+    warning: false
+

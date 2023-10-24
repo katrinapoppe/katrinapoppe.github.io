@@ -1,0 +1,765 @@
+[
+	{"id": "skeeter_using_2013-1",
+		"type": "article-journal",
+		"container-title": "Pennsylvania Geographer",
+		"ISSN": "0553-5980",
+		"issue": "1",
+		"page": "73-86",
+		"title": "Using Radar Composites to Detect Variances in Precipitation from Cold Fronts Across the Chesapeake Bay: April Through October from 1997 to 2011",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{"id": "skeeter_fog_2016",
+		"type": "article-journal",
+		"abstract": "The Delmarva Peninsula is a unique region with regards to the importance of fog. This study examines the spatial and temporal variability of fog characteristics across the Peninsula. In this paper, we use five stations with reliable records to create a regional fog climatology. Results indicate there is a high degree of temporal variability over relatively short distances, especially when comparing coastal to inland locations. The most inland location, Salisbury, receives by far the greatest annual frequency of fog. The seasonal distribution of fog events for the inland and coastal locations differ greatly, with Salisbury experiencing its maximum fog frequency during the summer while locations near the coast experience their maxima during the winter. Numerous physiographic and meteorological factors combine in complex ways to create a unique fog climatology across the Peninsula The results of this study can be useful to help understand and anticipate potentially dangerous transportation conditions due to fog.",
+		"container-title": "The Geographical Bulletin",
+		"ISSN": "07313292",
+		"issue": "2",
+		"page": "65-75",
+		"title": "A Fog Climatology of the Delmarva Peninsula",
+		"URL": "https://www.proquest.com/docview/1845101484/abstract/A0CE794EC54E4E8BPQ/1",
+		"volume": "57",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			},
+			{
+				"family": "Parnell",
+				"given": "Darren B."
+			},
+			{
+				"family": "Skeeter",
+				"given": "Brent R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11
+				]
+			]
+		}
+	},
+	{"id": "skeeter_vegetation_2020",
+		"type": "article-journal",
+		"container-title": "Biogeosciences",
+		"DOI": "10.5194/bg-17-4421-2020",
+		"issue": "17",
+		"license": "All rights reserved",
+		"page": "4421–4441",
+		"title": "Vegetation influence and environmental controls on greenhouse gas fluxes from a drained thermokarst lake in the western Canadian Arctic",
+		"URL": "https://bg.copernicus.org/articles/17/4421/2020/",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			},
+			{
+				"family": "Christen",
+				"given": "Andreas"
+			},
+			{
+				"family": "LaForce",
+				"given": "Andre-Anne"
+			},
+			{
+				"family": "Humphreys",
+				"given": "Ellyn"
+			},
+			{
+				"family": "Henry",
+				"given": "Greg H.R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{"id": "skeeter_controls_2022",
+		"type": "article-journal",
+		"abstract": "Growing season surface–atmosphere exchange of carbon dioxide and methane were quantified at Fish Island, a wetland site in the lower northeast Mackenzie River Delta, Northwest Territories, Canada. The terrain consists of low-center polygonal tundra and is subject to infrequent flooding in high water years. Carbon dioxide and methane fluxes were continuously measured using eddy covariance and the relevance of different environmental controls were identified using neural networks. Net daily carbon dioxide uptake peaked in mid-July before gradually decreasing and transitioning to net daily emissions by September. Variations in light level and temperature were the main controls over diurnal net carbon dioxide uptake, whereas thaw depth and phenology were the main seasonal controls. Methane emissions measured at Fish Island were higher than comparable studies on river delta sites in the Arctic and were influenced by the interaction of a large number of factors including thaw and water table depth, soil temperatures, and net radiation. Spikes in methane emissions were associated with strong winds and turbulence. The Fish Island tundra was a net sink for carbon during the growing season and methane emissions only slightly reduced the overall sink strength.",
+		"container-title": "Arctic Science",
+		"DOI": "10.1139/as-2021-0034",
+		"issue": "2",
+		"license": "All rights reserved",
+		"page": "471-497",
+		"source": "cdnsciencepub.com (Atypon)",
+		"title": "Controls on carbon dioxide and methane fluxes from a low-center polygonal peatland in the Mackenzie River Delta, Northwest Territories",
+		"URL": "https://cdnsciencepub.com/doi/full/10.1139/as-2021-0034",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			},
+			{
+				"family": "Christen",
+				"given": "Andreas"
+			},
+			{
+				"family": "Henry",
+				"given": "Greg H.R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					6
+				]
+			]
+		}
+	},
+	{"id": "skeeter_modelling_2023",
+		"type": "article-journal",
+		"abstract": "A temporal upscaling study was conducted to estimate net ecosystem exchange (NEE) of carbon dioxide and net methane exchange (NME) for a low-center polygon (LCP) ecosystem in the Mackenzie River Delta, for each of the 11 growing seasons (2009–2019). We used regression models to create a time series of flux drivers from in situ weather observations (2009–2019) combined with ERA5 reanalysis and satellite data. We then used neural networks that were trained and validated on a single growing season (2017) of eddy covariance data to model NEE and NME over each growing season. The study indicates growing season NEE was negative (net uptake) and NME was positive (net emission) in this LCP ecosystem. Cumulative carbon (C) uptake was estimated to be −46.7 g C m−2 (CI95% ± 45.3) per growing season, with methane emissions offsetting an average 5.6% of carbon dioxide uptake (in g C m−2) per growing season. High air temperatures (>15 °C) reduced daily CO2 uptake and cumulative NEE was positively correlated with mean air growing season temperatures. Cumulative NME was positively correlated with the length of the growing season. Our analysis suggests warmer climate conditions may reduce carbon uptake in this LCP ecosystem.",
+		"container-title": "Arctic Science",
+		"DOI": "10.1139/as-2022-0033",
+		"issue": "3",
+		"page": "689-709",
+		"source": "cdnsciencepub.com (Atypon)",
+		"title": "Modelling growing season carbon fluxes at a low-center polygon ecosystem in the Mackenzie River Delta",
+		"URL": "https://cdnsciencepub.com/doi/10.1139/as-2022-0033",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			},
+			{
+				"family": "Christen",
+				"given": "Andreas"
+			},
+			{
+				"family": "Henry",
+				"given": "Greg"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					9
+				]
+			]
+		}
+	},
+	{"id": "skeeter_chapter_2022",
+		"type": "chapter",
+		"abstract": "Advancing teaching and learning in geomatics",
+		"container-title": "Geomatics for Environmental Management: An Open Textbook for Students and Practitioners",
+		"source": "www.opengeomatics.ca",
+		"title": "Chapter 3 Data Types and Spatial Data Models",
+		"URL": "https://www.opengeomatics.ca/types-of-data.html",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			},
+			{
+				"family": "Pickell",
+				"given": "Paul"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{"id": "skeeter_thesis_2022",
+		"type": "thesis",
+		"abstract": "With climate change, this permafrost carbon pool is at risk of destabilization and emission to the atmosphere.  Two field campaigns were conducted in the Mackenzie Delta Region to measure carbon dioxide and methane fluxes with eddy covariance and chamber methods.  Illisarvik, a d",
+		"genre": "PhD Thesis",
+		"language": "eng",
+		"license": "All rights reserved",
+		"DOI": "10.14288/1.0421939",
+		"publisher": "University of British Columbia",
+		"source": "open.library.ubc.ca",
+		"title": "Using machine learning to identify and map controls of growing-season carbon dioxide and methane fluxes in the Mackenzie Delta region",
+		"URL": "https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0421939",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{"id": "skeeter_ammonium_2015",
+		"type": "thesis",
+		"genre": "Master's Thesis",
+		"title": "Ammonium Concentrations Above a Louisiana Sugarcane Field",
+		"URL": "https://scholarcommons.sc.edu/etd/3157",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{"id": "skeeter_compiling_2021",
+		"type": "paper-conference",
+		"event-title": "Western Association of Map Librarians annual meeting",
+		"event-place": "Vancouver, BC",
+		"title": "Compiling and Mapping Police Involved Deaths: Systemic Racism in Canadian Policing",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					29
+				]
+			]
+		}
+	},
+	{"id": "skeeter_police_2021",
+		"type": "paper-conference",
+		"event-title": "Association of American Geographers annual meeting",
+		"event-place": "*virtual",
+		"title": "Police Killings and Systemic Racism in Canadian Policing",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					7
+				]
+			]
+		}
+	},
+	{"id": "ahmed_how_2019",
+		"type": "paper-conference",
+		"event-title": "EcoCity World Summit",
+		"event-place": "Vancouver, BC",
+		"title": "How Can I Reduce My Carbon Footprint?",
+		"author": [
+			{
+				"family": "Ahmed",
+				"given": "Munifa"
+			},
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					10
+				]
+			]
+		}
+	},
+	{"id": "skeeter_growing_2017",
+		"type": "paper-conference",
+		"event-place": "Quebec City, QC",
+		"event-title": "ArcticNet annual meeting",
+		"title": "Growing Season Carbon Balance of a Mackenzie River Delta Peatland",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12,
+					13
+				]
+			]
+		}
+	},
+	{"id": "skeeter_greenhouse_2017",
+		"type": "lecture",
+		"event-place": "Inuvik, NT",
+		"event-title": "Aurora Research Institute Summer Speakers Series",
+		"publisher-place": "Inuvik, NT",
+		"title": "Greenhouse Gas Exchange in the Outer Mackenzie Delta",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					7,
+					8
+				]
+			]
+		}
+	},
+	{"id": "skeeter_vegetation_2017",
+		"type": "paper-conference",
+		"event-title": "Canadian Geophysical Union annual meeting",
+		"event-place": "Vancouver, BC",
+		"title": "Vegetation Influence and Environmental Controls on Greenhouse Gas Fluxes from a Drained Thermokarst Lake in the Mackenzie River Delta, NWT",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					5,
+					30
+				]
+			]
+		}
+	},
+	{"id": "skeeter_carbon_2016",
+		"type": "paper-conference",
+		"event-place": "Winnipeg, MB",
+		"event-title": "ArcticNet annual meeting",
+		"publisher-place": "Winnipeg, MB",
+		"title": "Carbon Dioxide and Methane fluxes at Illisarvik 2016",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12,
+					7
+				]
+			]
+		}
+	},
+	{"id": "skeeter_source_2014",
+		"type": "paper-conference",
+		"event-place": "Roanoke VA",
+		"event-title": "South Eastern Division of the Association of American Geographers annual meeting",
+		"genre": "Poster",
+		"publisher-place": "Roanoke VA",
+		"title": "Source Areas of Ammonium Sampled Above a Louisiana Sugarcane Field",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					11,
+					24
+				]
+			]
+		}
+	},
+	{"id": "skeeter_identifying_2014-1",
+		"type": "paper-conference",
+		"event-place": "Portland OR",
+		"event-title": "31st Conference on Agricultural and Forest Meteorology",
+		"publisher-place": "Portland OR",
+		"title": "Identifying Source Areas of Ammonium Concentrations Sampled Above a Louisiana Sugarcane Field",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					5,
+					12
+				]
+			]
+		}
+	},
+	{"id": "skeeter_fog_2013",
+		"type": "paper-conference",
+		"event-place": "Salisbury MD",
+		"event-title": "Salisbury University Student Research Conference",
+		"publisher-place": "Salisbury MD",
+		"title": "Fog Climatology of Salisbury, MD",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					4,
+					26
+				]
+			]
+		}
+	},
+	{"id": "skeeter_using_2013-2",
+		"type": "paper-conference",
+		"event-place": "Los Angeles CA",
+		"event-title": "Association of American Geographers annual meeting",
+		"publisher-place": "Los Angeles CA",
+		"title": "Using Radar Composites to Detect Variances in Precipitation from Cold Fronts Across the Chesapeake Bay: April through October from 1997 to 2012",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					4,
+					10
+				]
+			]
+		}
+	},
+	{"id": "skeeter_using_2012-1",
+		"type": "paper-conference",
+		"event-place": "Asheville NC",
+		"event-title": "South Eastern Division of the Association of American Geographers annual meeting",
+		"publisher-place": "Asheville NC",
+		"title": "Using Radar Composites Created in Model Builder to Perform Statistical Analyses of Cold Frontal Precipitation Events in the Chesapeake Bay Region: April through October 1997-2011",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					11,
+					19
+				]
+			]
+		}
+	},
+	{"id": "skeeter_possible_2011",
+		"type": "paper-conference",
+		"event-place": "College Park, MD",
+		"event-title": "Middle Atlantic Division of the Association of American Geographers annual meeting",
+		"title": "The Possible Differing Influence of the Chesapeake Bay on Frontal and Squall Line Precipitation Events (April-October)",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					10,
+					28
+				]
+			]
+		}
+	},
+	{"id": "skeeter_framework_2023",
+		"type": "paper-conference",
+		"event-title": "Canadian Geophysical Union annual meeting",
+		"event-place": "Banff, AB",
+		"title": "A Framework for Applying Neural Networks to Eddy Covariance Data",
+		"URL": "https://june-skeeter.github.io/NN_Applications/",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			},
+			{
+				"family": "Knox",
+				"given": "S"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					5,
+					8
+				]
+			]
+		}
+	},
+	{"id": "skeeter_identifying_2014-2",
+		"type": "paper-conference",
+		"event-title": "Association of American Geographers annual meeting",
+		"event-place": "Tampa, FL",
+		"title": "Identifying Source Areas of Ammonium Concentrations Sampled Above a Louisiana Sugarcane Field",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					4,
+					8
+				]
+			]
+		}
+	},
+	{"id": "skeeter_ongoing_2023",
+		"type": "paper-conference",
+		"event-title": "CLASSIC/COHERENT-C Workshop",
+		"event-place": "Victoria, BC",
+		"title": "Ongoing and Proposed Research in the Burns Bog Ecological Conservancy Area",
+		"URL": "https://ubc-micromet.github.io/BBECA_Work/",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			},
+			{
+				"family": "Knox",
+				"given": "S"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					11
+				]
+			]
+		}
+	},
+	{"id": "skeeter_using_2012-2",
+		"type": "paper-conference",
+		"event-place": "Los Angeles CA",
+		"event-title": "Association of American Geographers annual meeting",
+		"publisher-place": "Los Angeles CA",
+		"title": "Using Radar Composites to Detect Variances in Precipitation from Cold Fronts Across the Chesapeake Bay: April through October from 1997 to 2012",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					4,
+					10
+				]
+			]
+		}
+	},
+	{"id": "skeeter_data_2020",
+		"type": "lecture",
+		"event-title": "Guest lecture, GEOS 270",
+		"event-place": "Vancouver, BC",
+		"title": "Data Normalization & Classification: Police Violence in North America",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{"id": "skeeter_opensourcegis_2023",
+		"type": "lecture",
+		"event-title": "UBC CAPACITY workshop event",
+		"event-place": "Vancouver, BC",
+		"title": "Open Source GIS",
+		"URL": "https://june-skeeter.github.io/OpenSourceGIS/",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2
+				]
+			]
+		}
+	},
+	{"id": "skeeter_growing_2018",
+		"type": "paper-conference",
+		"event-title": "European Geophysical Union annual meeting",
+		"event-place": "Vienna, AT",
+		"title": "Growing Season Carbon Balance of a Permafrost Peatland in the Mackenzie River Delta",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					10
+				]
+			]
+		}
+	},
+	{"id": "skeeter_remote_2022",
+		"type": "lecture",
+		"event-title": "Guest lecture, GEOS 373",
+		"event-place": "Vancouver, BC",
+		"title": "Remote Sensing in Atmospheric Sciences",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3
+				]
+			]
+		}
+	},
+	{"id": "skeeter_remote_2020",
+		"type": "lecture",
+		"event-title": "Guest lecture, GEOS 373",
+		"event-place": "Vancouver, BC",
+		"title": "Remote Sensing in Atmospheric Sciences",
+		"author": [
+			{
+				"family": "Skeeter",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11
+				]
+			]
+		}
+	}
+]
